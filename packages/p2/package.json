@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@myscope/p1": "*",
-    "repeat-string": "^1.6.1"
+    "repeat-string": "1.6.1"
   },
   "scripts": {
     "start": "node index.js"
