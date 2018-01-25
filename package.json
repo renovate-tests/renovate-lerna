@@ -1,11 +1,12 @@
 {
   "scripts": {
-    "postinstall": "lerna bootstrap",
     "clean": "rimraf **/node_modules",
     "start": "lerna run start --scope @myscope/p2"
   },
   "devDependencies": {
     "lerna": "^2.6.0",
     "rimraf": "^2.6.2"
-  }
+  },
+  "private": true,
+  "workspaces": ["packages/*"]
 }
