@@ -5,7 +5,7 @@
     "start": "lerna run start --scope @myscope/p2"
   },
   "devDependencies": {
-    "lerna": "2.6.0",
+    "lerna": "2.8.0",
     "rimraf": "2.6.2"
   }
 }
