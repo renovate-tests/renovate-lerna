@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@myscope/p1": "*",
+    "chalk": "2.0.0",
     "repeat-string": "1.6.1"
   },
   "scripts": {
